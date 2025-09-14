@@ -66,4 +66,12 @@ These insights can help in **urban planning, optimizing taxi services, and under
 
 ## Acknowledgements
 - Dataset provided by **NYC Taxi & Limousine Commission (TLC)**.  
-- Data source: [TLC Trip Record Data](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf).  
+- Data source: [TLC Trip Record Data](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf).
+
+- ---
+
+## Contact
+👤 **Author:** Gaurav Rathi 
+📧 Email: grrathi1804@gmail.com
+💻 GitHub: grrathi-1804(https://github.com/grrathi-1804)
+
